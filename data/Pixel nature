@@ -1,0 +1,46 @@
+slug = "pixel nature"
+name = "Pixel nature"
+creator = "@RUSL0n"
+description = "Just lots of green flowers with pixel animated backgrounds."
+tags = ["green", "nature", "pixel"]
+
+[variables]
+light = false
+accent = "#1ABC9C"
+background = "#00471b"
+foreground = "#FFF"
+
+block = "#2D2D2D69"
+message-box = "#000000aa"
+mention = "#ffff0015"
+
+success = "#65E572"
+warning = "#FAA352"
+error = "#F06464"
+hover = "rgb(0, 0, 0, 0.1)"
+
+tooltip = "#000000"
+
+[variables.scrollbar]
+thumb = "#15967d"
+track = "transparent"
+
+[variables.primary]
+background = "#000000a0"
+header = "#00000069"
+
+[variables.secondary]
+background = "#00000069"
+foreground = "#C8C8C869"
+header = "#00000069"
+
+[variables.tertiary]
+background = "#00000069"
+foreground = "#ffffff69"
+
+[variables.status]
+online = "#3ABF7E"
+away = "#F39F00"
+busy = "#F84848"
+streaming = "#977EFF"
+invisible = "#A5A5A5"
